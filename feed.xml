@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best North Star</title>
+    <description>42
+</description>
+    <link>https://bestnorthstar.com/</link>
+    <atom:link href="https://bestnorthstar.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jun 2020 08:01:17 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2020 08:01:17 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>First Lego Creations</title>
+        <description>&lt;p&gt;Some of my first lego creations&lt;/p&gt;
+
+&lt;p&gt;This one is from July 2017. 
+&lt;img src=&quot;/assets/lego/lego01.jpg&quot; alt=&quot;Lego 01&quot; title=&quot;Lego 01&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This one is from Jan 2018.
+&lt;img src=&quot;/assets/lego/lego02.jpg&quot; alt=&quot;Lego 02&quot; title=&quot;Lego 02&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And this is from Dec 2019.
+&lt;img src=&quot;/assets/lego/lego03.jpg&quot; alt=&quot;Lego 03&quot; title=&quot;Lego 03&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And this one is from May 2020.
+&lt;img src=&quot;/assets/lego/lego04.jpg&quot; alt=&quot;Lego 04&quot; title=&quot;Lego 04&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+        <link>https://bestnorthstar.com/lego/</link>
+        <guid isPermaLink="true">https://bestnorthstar.com/lego/</guid>
+        
+        
+        <category>New</category>
+        
+      </item>
+    
+  </channel>
+</rss>
